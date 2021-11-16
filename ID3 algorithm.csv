@@ -1,0 +1,11 @@
+Instance,a1,a2,a3,Classification
+1,TRUE,Hot,High,No
+2,TRUE,Hot,High,No
+3,FALSE,Hot,High,Yes
+4,FALSE,Cool,Normal,Yes
+5,FALSE,Cool,Normal,Yes
+6,TRUE,Cool,High,No
+7,TRUE,Hot,High,No
+8,TRUE,Hot,Normal,Yes
+9,FALSE,Cool,Normal,Yes
+10,FALSE,Cool,High,Yes
